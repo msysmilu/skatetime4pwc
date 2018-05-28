@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <!--<item
+        android:id="@+id/action_choose_date"
+        android:icon="@drawable/ic_action_go_to_today_chosen"
+        android:orderInCategory="100"
+        android:title="Now"
+        app:showAsAction="always" />-->
+    <item
+        android:id="@+id/action_badge_programs"
+        android:icon="@drawable/ic_badge_programs"
+        android:orderInCategory="100"
+        android:title="Activities"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_badge_date"
+        android:icon="@drawable/ic_badge_date"
+        android:orderInCategory="50"
+        android:title="Date"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_badge_filter"
+        android:icon="@drawable/ic_badge_filter"
+        android:orderInCategory="200"
+        android:title="Filter"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_choose_feedback_mail"
+        android:orderInCategory="200"
+        android:title="Suggestions and issues..."
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_set_updates"
+        android:orderInCategory="300"
+        android:title="Turn Updates"
+        app:showAsAction="never" />
+</menu>
+
+    <!--to disable filter button add
+        android:enabled="false"
+        android:visible="false" -->

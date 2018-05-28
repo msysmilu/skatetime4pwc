@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/filter_FacilityTypeHeading"
+        android:id="@+id/filter_ArenaTypeHeading"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/filter_IndoorArenaBox"
+        android:id="@+id/filter_IndoorArenaBox"
+        android:layout_marginTop="72dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/filter_OutdoorRinkBox"
+        android:id="@+id/filter_OutdoorRinkBox"
+        android:layout_marginLeft="39dp"
+        android:layout_marginStart="39dp"
+        android:layout_alignTop="@+id/filter_IndoorArenaBox"
+        android:layout_toRightOf="@+id/filter_IndoorArenaBox"
+        android:layout_toEndOf="@+id/filter_IndoorArenaBox" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/filter_AmenitiesHeading"
+        android:id="@+id/filter_AmenitiesHeading"
+        android:layout_marginTop="157dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/filter_AmenitiesWashroom"
+        android:id="@+id/filter_AmenitiesWashroom"
+        android:layout_below="@+id/filter_AmenitiesHeading"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="45dp" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/filter_AmenitiesChangeroom"
+        android:id="@+id/filter_AmenitiesChangeroom"
+        android:layout_alignTop="@+id/filter_AmenitiesWashroom"
+        android:layout_toRightOf="@+id/filter_AmenitiesWashroom"
+        android:layout_toEndOf="@+id/filter_AmenitiesWashroom" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/filter_AmenitiesRentals"
+        android:id="@+id/filter_AmenitiesRentals"
+        android:layout_alignTop="@+id/filter_AmenitiesChangeroom"
+        android:layout_toRightOf="@+id/filter_AmenitiesChangeroom"
+        android:layout_toEndOf="@+id/filter_AmenitiesChangeroom" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/filter_SkateTimesHeading"
+        android:id="@+id/filter_SkateTimesHeading"
+        android:layout_below="@+id/filter_AmenitiesWashroom"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="59dp" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/filter_SkateTimesMorning"
+        android:id="@+id/filter_SkateTimesMorning"
+        android:layout_below="@+id/filter_SkateTimesHeading"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="38dp" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/filter_SkateTimesAfternoon"
+        android:id="@+id/filter_SkateTimesAfternoon"
+        android:layout_alignTop="@+id/filter_SkateTimesMorning"
+        android:layout_toRightOf="@+id/filter_SkateTimesMorning"
+        android:layout_toEndOf="@+id/filter_SkateTimesMorning"
+        android:singleLine="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/filter_SkateTimesEvening"
+        android:id="@+id/filter_SkateTimesEvening"
+        android:singleLine="false"
+        android:layout_alignTop="@+id/filter_SkateTimesAfternoon"
+        android:layout_toRightOf="@+id/filter_SkateTimesAfternoon"
+        android:layout_toEndOf="@+id/filter_SkateTimesAfternoon" />
+
+</RelativeLayout>

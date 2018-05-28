@@ -1,0 +1,2196 @@
+{
+  "data":{
+    "locations":{
+      "location":[
+        {
+          "id":"523",
+          "name":"Agincourt Recreation Centre",
+          "desc":"This arena is located near Sheppard Avenue and Midland Avenue. Two indoor rinks provide ice for hockey and leisure skates.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.788656",
+            "lng":"-79.275981"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"800",
+          "name":"Albion Arena",
+          "desc":"This arena is located at the north-west corner of Albion Road and Kipling Avenue. This facility offers Learn to Skate programs for all ages as well as supervised and unsupervised public skates.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.739524",
+            "lng":"-79.582771"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"31",
+          "name":"Harry Gairey Rink",
+          "desc":"This rink is located on the west side of Alexandra Park, a 2.7 hectare park at Bathurst Street and Dundas Street West.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.651186",
+            "lng":"-79.404336"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"480",
+          "name":"Amesbury Arena",
+          "desc":"This arena is located in Amesbury Park, at the corner of Lawrence Avenue West and Culford Road, two blocks east of Black Creek Drive.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.7067435",
+            "lng":"-79.4823415"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"582",
+          "name":"Angela James Arena",
+          "desc":"This arena is located in Flemington Park near Don Mills Road and Eglinton Avenue East. It offers fee-based instructional programs and free public skating times for all ages.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.713184",
+            "lng":"-79.327674"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"512",
+          "name":"Baycrest Arena",
+          "desc":"This arena is located in Baycrest Park near Bathurst Street and Baycrest Avenue.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.72803",
+            "lng":"-79.440878"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"515",
+          "name":"Bayview Arena",
+          "desc":"This arena is located in the city's North York District near Finch Avenue East and Bayview Avenue.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.787932",
+            "lng":"-79.393661"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"507",
+          "name":"Birchmount Community Centre",
+          "desc":"This arena is situated within a multi-purpose facility with programs and services offered through the Birchmount Bluffs Neighbourhood Centre. It is located near Kingston Road and Birchmount Road.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.695342",
+            "lng":"-79.2623575"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"7",
+          "name":"Broadlands Rink",
+          "desc":"This rink is located near the the DVP (Don Valley Parkway) and Lawrence Avenue East area in a residential community. It is beside Broadlands Community Centre.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.7458125",
+            "lng":"-79.322442"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"813",
+          "name":"Buttonwood Rink",
+          "desc":"This rink is located on the south side of Buttonwood Park, a 4.3 hectare park near Royal York Road and Eglinton Avenue West.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.681862",
+            "lng":"-79.518766"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"no",
+            "hasChangeRoom":"no",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"1053",
+          "name":"Campbell Park Rink",
+          "desc":"This rink is located on the south side of Campbell Avenue Park, a 1.3 hectare park near Lansdowne Avenue and Dupont Street.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.6644482",
+            "lng":"-79.4493968"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"yes"
+          }
+        },
+        {
+          "id":"629",
+          "name":"Cedarvale Rink",
+          "desc":"This rink is located beside Phil White Arena in Cedarvale Park, near Vaughan Road and Oakwood Avenue.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.6914071",
+            "lng":"-79.4318368"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"913",
+          "name":"Centennial Arena (Etobicoke/York)",
+          "desc":"This double-padded arena is located in Centennial Park in Etobicoke. The closest intersection is Renforth Drive and Rathburn Road.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.656102",
+            "lng":"-79.584904"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"537",
+          "name":"Centennial Recreation Centre (Scarborough)",
+          "desc":"This multi-purpose Recreation facility is located near Markham Road and Ellesmere Road. It features hockey and figure skating rinks and is home to the Scarboro Figure Skating Club.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.774489",
+            "lng":"-79.236554"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"824",
+          "name":"Central Arena",
+          "desc":"This arena is located just north of Bloor Street and east of Islington Avenue on a quiet residential street beside Memorial Health Club. This facility offers Learn to Skate Programs for all ages as well as supervised and unsupervised public skates",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.649347",
+            "lng":"-79.519681"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"476",
+          "name":"Chris Tonks Arena",
+          "desc":"This arena is located on the corner of Black Creek Dr. and Eglinton Avenue West. This facility offers Learn to Skate Programs for all ages, public skates and shinny hockey for various age groups.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.687606",
+            "lng":"-79.478913"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"196",
+          "name":"Christie Pits Rink",
+          "desc":"This rink is located in Christie Pits Park (originally Willowvale Park), a 8.9 hectare park near Bloor Street West and Christie Street.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.665384",
+            "lng":"-79.422198"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"466",
+          "name":"Colonel Samuel Smith Park",
+          "desc":"This is the City of Toronto's only skating trail! It is located near Kipling Avenue and Lake Shore Boulevard West.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.591374",
+            "lng":"-79.513972"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"558",
+          "name":"Commander Recreation Centre",
+          "desc":"This arena is located in an industrial area of Scarborough accessible by transit only during rush hour. The closest major intersection is Huntingwood Drive and Brimley Road.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.79503",
+            "lng":"-79.267816"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"499",
+          "name":"Cummer Park Community Centre",
+          "desc":"This arena is located in Cummer Park, just south of Steeles Avenue East and Leslie Street.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.800229",
+            "lng":"-79.37125"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"548",
+          "name":"Don Mills Civitan Arena",
+          "desc":"This arena is located on Don Mills Road just south of Lawrence Avenue. The facility offers skating programs for preschoolers, children, youth, adults and older adults.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.733108",
+            "lng":"-79.343872"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"712",
+          "name":"Don Montgomery Community Centre",
+          "desc":"This arena is centrally located beside Kennedy Subway Station and Kennedy GO Station for easy access. The nearest major intersection is Midland Avenue and Eglinton Avenue East.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.732523",
+            "lng":"-79.26198"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"568",
+          "name":"Downsview Arena",
+          "desc":"This arena is located on Wilson Avenue west of Jane Street, across from the Sheridan Mall. This facility offers Learn to Skate Programs for all ages and supervised public skates.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.719743",
+            "lng":"-79.513578"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"yes"
+          }
+        },
+        {
+          "id":"87",
+          "name":"Dufferin Rink",
+          "desc":"The rink is located at the north end of Dufferin Grove Park, a 5.3 hectare park on Dufferin Street just south of Bloor Street West.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.6572825",
+            "lng":"-79.431592"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"yes"
+          }
+        },
+        {
+          "id":"330",
+          "name":"East York Memorial Arena",
+          "desc":"This arena is located on Cosburn Avenue just east of Woodbine Avenue.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.697447",
+            "lng":"-79.315312"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"303",
+          "name":"Fenside Arena",
+          "desc":"This arena is located north of York Mills Road and just east of the DVP ( Don Valley Parkway).",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.76436",
+            "lng":"-79.327165"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"638",
+          "name":"Glen Long Rink",
+          "desc":"This rink is located in the Lawrence Avenue West and Dufferin Street area nestled within the heart of the community. It is beside Glen Long Community Centre.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.709396",
+            "lng":"-79.455927"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"642",
+          "name":"Gord and Irene Risk Community Centre",
+          "desc":"This arena is located at the north-east corner of Islington Road and Finch Avenue.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.747451",
+            "lng":"-79.566542"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"643",
+          "name":"Goulding Arena",
+          "desc":"This arena is located just south of Steeles Avenue on the west side of Yonge Street. The building is surrounded by beautiful green fields including two baseball diamonds.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.790625",
+            "lng":"-79.422907"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"647",
+          "name":"Grandravine Community Recreation Centre",
+          "desc":"This arena is located at Keele Street and Grandravine Drive. The new program - Hockey In the Neighbourhood - is a successful low cost introduction to the sport of Hockey.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.751857",
+            "lng":"-79.490563"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"652",
+          "name":"Habitant Arena",
+          "desc":"This arena is located off of Weston Road near Emery Collegiate Institute. This facility offers Learn to Skate Programs for all ages as well as supervised and unsupervised public skates.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.746902",
+            "lng":"-79.540235"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"483",
+          "name":"Herbert H. Carnegie Centennial Centre",
+          "desc":"Formerly known as the North York Centennial Arena, this facility was renamed in 2005 to honour the late hockey star Herbert H. Carnegie who passed away in March 2012. It is located on Finch Avenue west of Bathurst Street.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.773524",
+            "lng":"-79.450257"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"633",
+          "name":"Heron Park Arena",
+          "desc":"This arena is located in Heron Park, a 4.7 hectare park on Lawrence Avenue East east of Morningside Road.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.768231",
+            "lng":"-79.175453"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"77",
+          "name":"High Park",
+          "desc":"This rink is located in High Park, over one-third of which remains in a natural state. The park is home to many species of wildlife including birds, fish and animals. The nearest intersection is Bloor Street and Keele Street.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.649888",
+            "lng":"-79.465331"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"1220",
+          "name":"Hodgson Rink",
+          "desc":"This rink is located beside Hodgson Public School and has two skating pads, one for shinny and one for pleasure skating. The nearest major intersection is Davisville Avenue and Mt Pleasant Road.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.701252",
+            "lng":"-79.384749"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"816",
+          "name":"Humber Valley Rink",
+          "desc":"This ice rink is located in the quiet residential neighbourhood of Humber Valley Village on Anglesey Boulevard. It offers both supervised and unsupervised skates including public skates and shinny hockey for various age groups.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.66452",
+            "lng":"-79.52557"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"664",
+          "name":"Irving W Chapley Rink",
+          "desc":"This rink is located beside Irving W Chapley Community Centre, just south of Dufferin Street and Finch Avenue West.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.761608",
+            "lng":"-79.4556765"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"155",
+          "name":"Jimmie Simpson Rink",
+          "desc":"This rink is located in Jimmie Simpson Park, a 2.6 hectare park just east of Broadview Avenue on Queen Street East.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.6608073",
+            "lng":"-79.344968"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"667",
+          "name":"John Booth Memorial Arena",
+          "desc":"This arena is located on Gosford Boulevard, north of Shoreham Drive. It has a skate pad with a ticket booth.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.76973",
+            "lng":"-79.524188"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"2715",
+          "name":"Joseph Bannon Rink",
+          "desc":"This rink is located in Joseph Bannon Park. The park was officially opened in October 13, 2012, and was named to honour Joseph Bannon, a decorated war hero and dedicated community champion. It is located south of Sheppard Avenue West and east of Weston Road.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.732426",
+            "lng":"-79.534772"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"no",
+            "hasChangeRoom":"no",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"107",
+          "name":"Kew Gardens Rink",
+          "desc":"The rink is located in Key Gardens, where the park meets the beach. This busy 6.5 hectare park lies in Toronto's Beach neighbourhood and stretches from Queen Street East down to the Lakeshore.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.667673",
+            "lng":"-79.296699"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"818",
+          "name":"Lambton - Kingsway Rink",
+          "desc":"This rink is located in a quiet residential neighbourhood just south of Dundas Street West and Prince Edward Drive. It offers both unsupervised public skates and shinny hockey for all ages.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.658294",
+            "lng":"-79.509388"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"no",
+            "hasChangeRoom":"no",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"479",
+          "name":"Lambton Arena",
+          "desc":"This arena is located off of Dundas Street West in Lambton Park. This facility offers Learn to Skate Programs for all ages as well as unsupervised public skates.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.664884",
+            "lng":"-79.505841"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"678",
+          "name":"Ledbury Rink",
+          "desc":"This rink is located in Ledbury Park, a 1.6 hectare park near Bathurst Street and Lawrence Avenue West.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.727477",
+            "lng":"-79.4246622"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"803",
+          "name":"Long Branch Arena",
+          "desc":"This arena is located south of Lakeshore Boulevard, just east of 31st Street. This facility offers a variety of Learn to Skate Programs for all ages as well as supervised and unsupervised public skates.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.592022",
+            "lng":"-79.526891"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"702",
+          "name":"Malvern Recreation Centre",
+          "desc":"This arena is located on the south side of Malvern Park, near Sheppard Avenue East and Neilson Road in Scarborough.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.808303",
+            "lng":"-79.216162"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"956",
+          "name":"Mel Lastman Square",
+          "desc":"This rink is located on Yonge Street north of Sheppard Avenue. It is named for former North York mayor (and later Toronto mayor) Mel Lastman.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.767592",
+            "lng":"-79.41346"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"802",
+          "name":"Mimico Arena",
+          "desc":"This arena is located just off of Royal York Road, north of Lakeshore boulevard. It offers a variety of instructional skate programs including Hockey Skills and Learn to Skate programs for all ages as well as supervised public skates.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.612352",
+            "lng":"-79.498782"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"693",
+          "name":"Mitchell Field Community Centre",
+          "desc":"This arena is located on Church Avenue east of Yonge Street in the North York district.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.774754",
+            "lng":"-79.408397"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"145",
+          "name":"Monarch Park Rink",
+          "desc":" This rink is located in Monarch Park, a 5 hectare park near Danforth Avenue and Coxwell Avenue.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.67706",
+            "lng":"-79.325572"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"1089",
+          "name":"Nathan Phillips Square",
+          "desc":"This rink is located on Queen Street and Bayview Avenue. Take in the downtown sites while pleasure skating, or enjoy a quick bite beside the rink at the restaurant!",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.652548",
+            "lng":"-79.383512"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"yes"
+          }
+        },
+        {
+          "id":"189",
+          "name":"North Toronto Memorial Rink",
+          "desc":"This rink is located on Eglinton Avenue west of Yonge Street. It is behind the North Toronto Memorial Community Centre.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.706633",
+            "lng":"-79.404513"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"714",
+          "name":"Oriole Community Centre",
+          "desc":"This arena is located in the Peanut area on Don Mills Road West just north of Sheppard Avenue.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.781769",
+            "lng":"-79.3512"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"251",
+          "name":"Otter Creek Rink",
+          "desc":"This rink contains both a pad for pleasure skating and shinny hockey. It is located on Cheritan Avenue south of Lawrence Avenue West.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.7215674",
+            "lng":"-79.4086559"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"820",
+          "name":"Park Lawn Rink",
+          "desc":"This arena is located on Park Lawn Road, north of The Queensway. This facility offers Learn to Skate Programs for all ages as well as supervised public skates.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.637384",
+            "lng":"-79.494643"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"477",
+          "name":"Phil White Arena",
+          "desc":"This arena is located in Toronto's Cedarvale neighbourhood. It is on Arlington Avenue north of Vaughan Road.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.69129",
+            "lng":"-79.43141"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"801",
+          "name":"Pine Point Arena",
+          "desc":"This arena is located north-east of Islington Avenue and Highway 401 on Grierson Road. This facility offers Learn to Skate Programs for all ages as well as supervised public skates and shinny hockey.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.7126",
+            "lng":"-79.542623"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"732",
+          "name":"Pleasantview Community Centre",
+          "desc":"This arena is located on Van Horne Avenue west of Victoria Park Avenue.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.78701",
+            "lng":"-79.337055"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"yes"
+          }
+        },
+        {
+          "id":"819",
+          "name":"Prince of Wales Rink",
+          "desc":"This ice rink is located in a quiet neighbourhood steps away from the lake. It is near Lake Shore Blvd West and Islington Avenue. It offers both supervised and unsupervised skates including public skates and shinny hockey.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.598835",
+            "lng":"-79.499141"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"817",
+          "name":"Queensway Rink",
+          "desc":"This rink is located on the north side of The Queensway just west of Royal York Road. This is a single pad outdoor ice rink. It offers both unsupervised public skates and shinny hockey for all ages.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.6275683",
+            "lng":"-79.5071577"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"no",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"167",
+          "name":"Ramsden Park",
+          "desc":"This rink is located in Ramsden Park, next to Rosedale Subway Station. It is on Yonge Street north of Bloor Street.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.676533",
+            "lng":"-79.392661"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"418",
+          "name":"Regent Park North",
+          "desc":"This rink is located on Dundas Street west of River Street.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.662035",
+            "lng":"-79.359756"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"419",
+          "name":"Regent Park South",
+          "desc":"Regent Park South Ice Rink is revitalized and open. It is located on Shuter Street west of River Street.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.658741",
+            "lng":"-79.359404"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"181",
+          "name":"Rennie Park Rink",
+          "desc":"This rink is located on the north side of Rennie Park, a 9.7 hectare park near Bloor Street West and the South Kingsway.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.6444056",
+            "lng":"-79.4733372"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"355",
+          "name":"Rivercrest Rink",
+          "desc":"This rink is located between Kipling Avenue and Islington Avenue, south of Albion Road.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.7298283",
+            "lng":"-79.5691551"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"no",
+            "hasChangeRoom":"no",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"343",
+          "name":"Riverdale Rink",
+          "desc":"This rink is located in Riverdale Park (East), a 18 hectare park near Danforth Avenue and Broadview Avenue. NOTE: Due to mechanical failure, the refrigeration plant at this location is off for the season. The rink remains open weather dependent.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.6720207",
+            "lng":"-79.3567541"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"744",
+          "name":"Roding Community Centre",
+          "desc":"This arena is located in the Keele Street and Wilson Avenue area. It is on the north side of Roding Park.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.729322",
+            "lng":"-79.492622"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"210",
+          "name":"Rosedale Rink",
+          "desc":"This rink is located in Rosedale Park, near Mt Pleasant Road and Roxborough Drive.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.682922",
+            "lng":"-79.378585"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"805",
+          "name":"Royalcrest Rink",
+          "desc":"The rink is located on Cabernet Circle just south of Steeles Avenue West. It offers both unsupervised public skates and shinny hockey for all ages.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.750935",
+            "lng":"-79.605585"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"240",
+          "name":"Ryerson Rink",
+          "desc":"This rink is located in Ryerson Community Park, near Yonge Street and Gerard Street East. It is an unsupervised rink.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.657666",
+            "lng":"-79.379843"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"no",
+            "hasChangeRoom":"no",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"1099",
+          "name":"Albert Campbell Rink",
+          "desc":"This rink is located on the north side of Civic Centre Park, near McCowan Road and Ellesmere Road.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.772924",
+            "lng":"-79.257565"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"743",
+          "name":"Scarborough Village Recreation Centre",
+          "desc":"This arena is located on Kingston Road near Markham Road.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.740137",
+            "lng":"-79.216822"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"a3",
+          "name":"Sherbourne Common Rink",
+          "desc":"This rink is located on Dockside Drive near Queens Quay east. Enjoy an leisurely or brisk skate while taking in the city's wonderful sites.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.645003",
+            "lng":"-79.364623"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"no",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"814",
+          "name":"Sir Adam Beck Rink",
+          "desc":"This ice rink is located in the Horner/Browns Line area on Orianna Drive next to Alderwood Centre. It offers supervised and unsupervised public skates and shinny hockey for all ages.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.601204",
+            "lng":"-79.548442"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"807",
+          "name":"Summerlea Rink",
+          "desc":"This rink is located just off of Albion Road, north west of Weston Road. It offers both unsupervised public skates and shinny hockey for all ages.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.726991",
+            "lng":"-79.551864"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"no",
+            "hasChangeRoom":"no",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"809",
+          "name":"Sunnydale Acres Rink",
+          "desc":"This rink is located on Amoro Drive, north of Rexdale Blvd and west of Kipling Avenue. It offers supervised and unsupervised public skates and shinny hockey for all ages.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.725085",
+            "lng":"-79.578186"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"241",
+          "name":"Trinity Bellwoods Rink",
+          "desc":"This rink is located on the north side of Trinity Bellwoods Park, a 14.6 hectare park on Queen Street West at Strachan Avenue, once the home of University of Trinity College (Trinity College).",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.649273",
+            "lng":"-79.413431"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"812",
+          "name":"Valleyfield Rink",
+          "desc":"This rink is located in Valleyfield Park, near The Westway and Royal York Road.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.69551",
+            "lng":"-79.534186"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"770",
+          "name":"Van Horne Park Rink",
+          "desc":"This rink is located in Van Horne Park, a 3.6 hectare park near Finch Avenue East and Victoria Park Avenue.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.787419",
+            "lng":"-79.337431"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"771",
+          "name":"Victoria Village Arena",
+          "desc":"This arena is located south of Eglinton Avenue and just east of the DVP (Don Valley Parkway).",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.723382",
+            "lng":"-79.315748"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"260",
+          "name":"Wallace Emerson Rink",
+          "desc":"This rink is located in Wallace Emerson Park, a 2.7 hectare park on Dufferin Street south of Dupont Street. It features two outdoor artificial ice pads",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.666898",
+            "lng":"-79.440325"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"yes"
+          }
+        },
+        {
+          "id":"773",
+          "name":"Wedgewood Rink",
+          "desc":"This rink is located in Wedgewood Park, a 1.2 hectare park near Martingrove Road and Burnhamthorpe Road.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.645267",
+            "lng":"-79.548182"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"873",
+          "name":"Martingrove Rink",
+          "desc":"This rink is located in West Dean Park, a 54.8 hectare park near Martin Grove Road and Rathburn Road. The park follows the Mimico Creek ravine from Eglinton Avenue West south to Rathburn Road.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.663015",
+            "lng":"-79.558209"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"808",
+          "name":"West Mall Rink",
+          "desc":"This rink is located across the street from the Etobicoke Civic Centre on The West Mall. It is a double-padded ice rink with one leisure skate pad and one shinny pad.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.641983",
+            "lng":"-79.565978"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"876",
+          "name":"Westgrove Rink",
+          "desc":"The rink is located on the north side of Westgrove Park, a 4 hectare park at Martin Grove Road and Redgrave Drive.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.683183",
+            "lng":"-79.56744"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"no",
+            "hasChangeRoom":"no",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"804",
+          "name":"Westway Rink",
+          "desc":"This ice rink is located on The Westway just east of Islington Avenue and north of Eglinton Avenue West. It offers Learn to Skate Programs for children as well as both supervised and unsupervised public skates and shinny hockey for all ages.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.688425",
+            "lng":"-79.542144"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"306",
+          "name":"Withrow Rink",
+          "desc":"This rink is located in the middle of Withrow Park, an 8 hectare park on Logan Avenue just south of Danforth Avenue.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.67439",
+            "lng":"-79.346534"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"778",
+          "name":"York Mills Arena",
+          "desc":"This arena is located in Irving Paisley Park, at the corner of York Mills Road and Bayview Avenue.",
+          "type":"indoor",
+          "coordinates":{
+            "lat":"43.7470905",
+            "lng":"-79.3838495"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"no"
+          }
+        },
+        {
+          "id":"a1",
+          "name":"Natrel Rink - Harbourfront",
+          "desc":"Tucked away behind the Bill Boyle Artport and set against the beautiful shoreline of Lake Ontario, the city's most scenic rink awaits. This rink is not operated by the City of Toronto, but skating is free.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.638199",
+            "lng":"-79.382784"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"yes"
+          }
+        },
+        {
+          "id":"a2",
+          "name":"Evergreen Brick Works Rink",
+          "desc":"Intimately nestled in Torontoâ\u20AC™s snowy Don Valley, take a glide on the outdoor ice and wind your way past the gardens, snow covered trees and twinkling lights. This rink is not operated by the City of Toronto, but skating is free.",
+          "type":"outdoor",
+          "coordinates":{
+            "lat":"43.684259",
+            "lng":"-79.365106"
+          },
+          "facilityFeatures":{
+            "hasWashroom":"yes",
+            "hasChangeRoom":"yes",
+            "hasRentals":"yes"
+          }
+        }
+      ]
+    },
+    "schedules":{
+      "activity":[
+        {
+          "type":"Skate",
+          "name":"Public Skate",
+          "month":[
+            {
+              "id":"May",
+              "day":[
+                {
+                  "id":"02",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1915",
+                      "timeEnd":"2045",
+                      "realName":"Family Skate "
+                    }
+                  ]
+                },
+                {
+                  "id":"03",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1415",
+                      "timeEnd":"1545",
+                      "realName":"Family Skate "
+                    }
+                  ]
+                },
+                {
+                  "id":"09",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1915",
+                      "timeEnd":"2045",
+                      "realName":"Family Skate "
+                    }
+                  ]
+                },
+                {
+                  "id":"10",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1415",
+                      "timeEnd":"1545",
+                      "realName":"Family Skate "
+                    }
+                  ]
+                },
+                {
+                  "id":"16",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1915",
+                      "timeEnd":"2045",
+                      "realName":"Family Skate "
+                    }
+                  ]
+                },
+                {
+                  "id":"17",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1415",
+                      "timeEnd":"1545",
+                      "realName":"Family Skate "
+                    }
+                  ]
+                },
+                {
+                  "id":"23",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1915",
+                      "timeEnd":"2045",
+                      "realName":"Family Skate "
+                    }
+                  ]
+                },
+                {
+                  "id":"24",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1415",
+                      "timeEnd":"1545",
+                      "realName":"Family Skate "
+                    }
+                  ]
+                },
+                {
+                  "id":"30",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1915",
+                      "timeEnd":"2045",
+                      "realName":"Family Skate "
+                    }
+                  ]
+                },
+                {
+                  "id":"31",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1415",
+                      "timeEnd":"1545",
+                      "realName":"Family Skate "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type":"Skate",
+          "name":"Public Skate - Unsupervised",
+          "month":[
+            {
+              "id":"May"
+            }
+          ]
+        },
+        {
+          "type":"Skate",
+          "name":"Caregiver and Child Skate",
+          "month":[
+            {
+              "id":"May"
+            }
+          ]
+        },
+        {
+          "type":"Skate",
+          "name":"Child Skate",
+          "month":[
+            {
+              "id":"May",
+              "day":[
+                {
+                  "id":"02",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1830",
+                      "timeEnd":"1915",
+                      "realName":"DROP-IN: Skating - Mini-Skate (up to 5yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"03",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1330",
+                      "timeEnd":"1415",
+                      "realName":"DROP-IN: Skating - Mini-Skate (up to 5yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"09",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1830",
+                      "timeEnd":"1915",
+                      "realName":"DROP-IN: Skating - Mini-Skate (up to 5yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"10",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1330",
+                      "timeEnd":"1415",
+                      "realName":"DROP-IN: Skating - Mini-Skate (up to 5yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"16",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1830",
+                      "timeEnd":"1915",
+                      "realName":"DROP-IN: Skating - Mini-Skate (up to 5yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"17",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1330",
+                      "timeEnd":"1415",
+                      "realName":"DROP-IN: Skating - Mini-Skate (up to 5yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"23",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1830",
+                      "timeEnd":"1915",
+                      "realName":"DROP-IN: Skating - Mini-Skate (up to 5yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"24",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1330",
+                      "timeEnd":"1415",
+                      "realName":"DROP-IN: Skating - Mini-Skate (up to 5yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"31",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1330",
+                      "timeEnd":"1415",
+                      "realName":"Mini Skate (up to 5yrs)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type":"Skate",
+          "name":"Youth Skate",
+          "month":[
+            {
+              "id":"May"
+            }
+          ]
+        },
+        {
+          "type":"Skate",
+          "name":"Adult Skate",
+          "month":[
+            {
+              "id":"May",
+              "day":[
+                {
+                  "id":"01",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"2115",
+                      "timeEnd":"2245",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"02",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"2100",
+                      "timeEnd":"2230",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"04",
+                  "scheduleEntry":[
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"330",
+                      "timeStart":"1330",
+                      "timeEnd":"1500",
+                      "realName":"Older Adult Skate (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"05",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1300",
+                      "timeEnd":"1415",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"537",
+                      "timeStart":"1145",
+                      "timeEnd":"1245",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"06",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1400",
+                      "timeEnd":"1530",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"07",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1300",
+                      "timeEnd":"1415",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"537",
+                      "timeStart":"1145",
+                      "timeEnd":"1245",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"330",
+                      "timeStart":"1330",
+                      "timeEnd":"1500",
+                      "realName":"Older Adult Skate (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"08",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"2115",
+                      "timeEnd":"2245",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"09",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"2100",
+                      "timeEnd":"2230",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"11",
+                  "scheduleEntry":[
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"330",
+                      "timeStart":"1330",
+                      "timeEnd":"1500",
+                      "realName":"Older Adult Skate (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"12",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1300",
+                      "timeEnd":"1415",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"537",
+                      "timeStart":"1145",
+                      "timeEnd":"1245",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"13",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1400",
+                      "timeEnd":"1530",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"14",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1300",
+                      "timeEnd":"1415",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"537",
+                      "timeStart":"1145",
+                      "timeEnd":"1245",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"330",
+                      "timeStart":"1330",
+                      "timeEnd":"1500",
+                      "realName":"Older Adult Skate (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"15",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"2115",
+                      "timeEnd":"2245",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"16",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"2100",
+                      "timeEnd":"2230",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"19",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1300",
+                      "timeEnd":"1415",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"537",
+                      "timeStart":"1145",
+                      "timeEnd":"1245",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"20",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1400",
+                      "timeEnd":"1530",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"21",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1300",
+                      "timeEnd":"1415",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"537",
+                      "timeStart":"1145",
+                      "timeEnd":"1245",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"330",
+                      "timeStart":"1330",
+                      "timeEnd":"1500",
+                      "realName":"Older Adult Skate (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"22",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"2115",
+                      "timeEnd":"2245",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"23",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"2100",
+                      "timeEnd":"2230",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"25",
+                  "scheduleEntry":[
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"330",
+                      "timeStart":"1330",
+                      "timeEnd":"1500",
+                      "realName":"Older Adult Skate (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"26",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1300",
+                      "timeEnd":"1415",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"537",
+                      "timeStart":"1145",
+                      "timeEnd":"1245",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"27",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1400",
+                      "timeEnd":"1530",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"28",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"1300",
+                      "timeEnd":"1415",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"537",
+                      "timeStart":"1145",
+                      "timeEnd":"1245",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    },
+                    {
+                      "id":"330",
+                      "timeStart":"1330",
+                      "timeEnd":"1500",
+                      "realName":"Older Adult Skate (60yrs and over)"
+                    }
+                  ]
+                },
+                {
+                  "id":"29",
+                  "scheduleEntry":[
+                    {
+                      "id":"537",
+                      "timeStart":"2115",
+                      "timeEnd":"2245",
+                      "realName":"Adult Skating (25 - 59yrs)"
+                    },
+                    {
+                      "id":"712",
+                      "timeStart":"900",
+                      "timeEnd":"1100",
+                      "realName":"DROP-IN: Skating - Older Adult (60yrs and over)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type":"Skate",
+          "name":"Special Skate",
+          "month":[
+            {
+              "id":"May"
+            }
+          ]
+        },
+        {
+          "type":"Shinny",
+          "name":"All Ages Shinny",
+          "month":[
+            {
+              "id":"May"
+            }
+          ]
+        },
+        {
+          "type":"Shinny",
+          "name":"Caregiver and Child Shinny",
+          "month":[
+            {
+              "id":"May"
+            }
+          ]
+        },
+        {
+          "type":"Shinny",
+          "name":"Child Shinny",
+          "month":[
+            {
+              "id":"May"
+            }
+          ]
+        },
+        {
+          "type":"Shinny",
+          "name":"Youth Shinny",
+          "month":[
+            {
+              "id":"May",
+              "day":[
+                {
+                  "id":"07",
+                  "scheduleEntry":[
+                    {
+                      "id":"712",
+                      "timeStart":"930",
+                      "timeEnd":"1130",
+                      "realName":"Home School Pick-Up Hockey (6 - 14yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"14",
+                  "scheduleEntry":[
+                    {
+                      "id":"712",
+                      "timeStart":"930",
+                      "timeEnd":"1130",
+                      "realName":"Home School Pick-Up Hockey (6 - 14yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"21",
+                  "scheduleEntry":[
+                    {
+                      "id":"712",
+                      "timeStart":"930",
+                      "timeEnd":"1130",
+                      "realName":"Home School Pick-Up Hockey (6 - 14yrs)"
+                    }
+                  ]
+                },
+                {
+                  "id":"28",
+                  "scheduleEntry":[
+                    {
+                      "id":"712",
+                      "timeStart":"930",
+                      "timeEnd":"1130",
+                      "realName":"Home School Pick-Up Hockey (6 - 14yrs)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type":"Shinny",
+          "name":"Adult Shinny",
+          "month":[
+            {
+              "id":"May"
+            }
+          ]
+        },
+        {
+          "type":"Shinny",
+          "name":"Female Only Shinny",
+          "month":[
+            {
+              "id":"May"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

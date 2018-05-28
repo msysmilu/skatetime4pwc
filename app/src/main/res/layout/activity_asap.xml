@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize">
+
+
+    <ProgressBar
+        android:id="@+id/waitingForLocationProgressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-4pt"
+        android:indeterminate="true"
+        android:padding="0pt"
+        android:visibility="visible" />
+
+    <ListView
+        android:id="@+id/activitiesListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/waitingForLocationProgressBar"
+        android:layout_marginTop="-4pt">
+
+    </ListView>
+
+    <RelativeLayout
+        android:layout_alignParentBottom="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-4pt"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:shadowColor="#808080">
+
+        <ImageView
+            android:id="@+id/myImageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/android_circle_medium" />
+
+        <TextView
+            android:id="@+id/displayDateTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/myImageView"
+            android:layout_alignLeft="@+id/myImageView"
+            android:layout_alignRight="@+id/myImageView"
+            android:layout_alignTop="@+id/myImageView"
+
+            android:gravity="center"
+            android:paddingEnd="2pt"
+            android:paddingLeft="2pt"
+            android:paddingRight="2pt"
+            android:text="@string/displayDateTextView_skateNowMessage_2rows"
+            android:textColor="@android:color/white"
+            android:textStyle="normal" />
+    </RelativeLayout>
+
+
+</RelativeLayout>
+
+
